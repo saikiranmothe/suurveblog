@@ -12,7 +12,6 @@ gem "twitter-bootstrap-rails"
 
 gem "bcrypt-ruby", :require => "bcrypt"
 
-gem 'simple_form'
 
 gem "passenger"
 

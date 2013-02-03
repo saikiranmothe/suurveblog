@@ -20,7 +20,7 @@ match "/post" => "blog_entries#new"
 
 
 #Redirecting new action of BLOG CAToGERIES to postyep
-match "/posttype" => "blog_categories#new"
+match "/tags" => "blog_categories#new"
 
   resources :blog_categories
 
